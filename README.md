@@ -126,7 +126,7 @@ proofs of concept, platform design, data engineering and technical governance.
 | Project | Focus | Highlights |
 |---|---|---|
 | [Enterprise Data Architecture Atlas](https://github.com/bernherre/enterprise-data-architecture-atlas) | Enterprise architecture and governance | Interactive reference covering architecture styles, patterns, viewpoints, data platforms, governance, metadata, modeling and operational concerns |
-| [Dutch Learning Platform](https://github.com/bernherre/web_nl_learn) - [Dutch Learning Platform in Action]([[https://github.com/bernherre/web_nl_learn](https://bernherre.github.io/web_nl_learn/)])| Product and educational engineering | Structured A0–B2 learning experience, accessibility, offline-first design, automated validation and content quality controls |
+| [Dutch Learning Platform](https://github.com/bernherre/web_nl_learn) - [Dutch Learning Platform in Action] (https://github.com/bernherre/web_nl_learn](https://bernherre.github.io/web_nl_learn/)| Product and educational engineering | Structured A0–B2 learning experience, accessibility, offline-first design, automated validation and content quality controls |
 | [Local AI Code Review](https://github.com/bernherre/checkwithai) | AI-assisted DevSecOps | Privacy-preserving code analysis with Ollama, GitHub annotations, structured reports and release automation |
 | [AI Malware Scan](https://github.com/bernherre/malwareAiScan) | Repository security | Static heuristics and local AI analysis integrated into automated repository workflows |
 | [Lightweight RAG](https://github.com/bernherre/RagLight) | Applied AI experimentation | Retrieval patterns, vector databases, evaluation, structured data and multimodal exploration |
